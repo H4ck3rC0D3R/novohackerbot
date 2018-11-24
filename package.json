@@ -1,0 +1,46 @@
+{
+  "name": "TheHackerBot",
+  "version": "1.0.0",
+  "description": "\"# novohackerbot \"",
+  "main": "bot.js",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.2",
+    "cleverbot.io": "1.0.4",
+    "get-stream": "4.1.0",
+    "google": "2.1.0",
+    "knock-knock-jokes": "1.7.0",
+    "libnpm": "1.0.0",
+    "ms": "2.1.1",
+    "opusscript": "0.0.6",
+    "pornhub": "0.0.5",
+    "random-puppy": "1.1.0",
+    "request-promise-native": "1.0.5",
+    "simple-youtube-api": "5.0.2",
+    "snekfetch": "4.0.4",
+    "weather-js": "2.0.0",
+    "youtube-dl": "1.12.2",
+    "cross-fetch": "2.2.3",
+    "discord.js": "11.4.2",
+    "figgy-pudding": "3.5.1",
+    "libnpmsearch": "2.0.0",
+    "sax": "1.2.4",
+    "whatwg-fetch": "3.0.0",
+    "ws": "6.1.0",
+    "ytdl-core": "0.26.3",
+    "npm-registry-fetch": "3.8.0",
+    "safe-buffer": "5.1.2",
+    "tweetnacl": "1.0.0",
+    "jimp": "0.5.6",
+    "moment": "2.22.2",
+    "nock": "10.0.2"
+  },
+  "devDependencies": {
+    "tap": "12.0.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
